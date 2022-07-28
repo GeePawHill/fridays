@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="openjfx-maven-2022" />
+        <module name="fridays" />
       </profile>
     </annotationProcessing>
   </component>
